@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.assignment-header {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+h1 {
+    text-align: center;
+    color: #444;
+}
+
+.container {
+    margin: 0 auto;
+    width: 500px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+
+
+button:hover {
+    background-color: #4cae4c;
+}
+
+#ciphertext, #decryptedtext {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+/* second css  */
+
+
